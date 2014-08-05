@@ -1,0 +1,1001 @@
+300  BLOCK ACACIA AVENUE,  Carlsbad CA
+300  BLOCK 08th AVENUE,  Carlsbad CA
+300 Acacia Ave, Carlsbad, CA
+2600 Carlsbad Blvd, Carlsbad, CA
+300 Acacia Ave, Carlsbad, CA
+7100 Aviara Dr, Carlsbad, CA
+400 F St, Chula Vista, CA
+1300 Sheryl Ave, Chula Vista, CA
+1400 Summit Dr, Chula Vista, CA
+1900 Camto De La Cruz, Chula Vista, CA
+200 Quintard St, Chula Vista, CA
+300 Sandstone Ct, Chula Vista, CA
+400 White Birch Dr, Chula Vista, CA
+900 Pappas Ct, Chula Vista, CA
+1300 Mesa Grande Pl, Chula Vista, CA
+700 Design Ct, Chula Vista, CA
+500 Woodlawn Ave, Chula Vista, CA
+1900 Natividad Rd, County Unincorporated, CA
+600 Chamberlain Ave, El Cajon, CA
+1000 S Sunshine Ave, El Cajon, CA
+400 Fletcher Pky, El Cajon, CA
+100 E Vermont Ave, Escondido, CA
+1000 E Washington Ave, Escondido, CA
+1500 Rimrock Dr, Escondido, CA
+1700 Harold Rd, Escondido, CA
+1800 Esquire Gln, Escondido, CA
+500 N Midway Dr, Escondido, CA
+900 E Mission Ave, Escondido, CA
+2000 Ardath Ave, Escondido, CA
+900 Sendero Ave, Escondido, CA
+300 W Felicita Ave, Escondido, CA
+400 W Felicita Ave, Escondido, CA
+4400 Dale Ave, La Mesa, CA
+7500 High St, La Mesa, CA
+3700 Harris St, La Mesa, CA
+1200 National City Blvd, National City, CA
+1800 I Ave, National City, CA
+200 E 24Th St, National City, CA
+300 E 27Th St, National City, CA
+800  BLOCK D AVENUE,  National City CA
+800 D Ave, National City, CA
+1800 E 17Th St, National City, CA
+100 Heritage St, Oceanside, CA
+100 Libby St, Oceanside, CA
+1500 S Coast Hwy, Oceanside, CA
+1600 Avnda Andante, Oceanside, CA
+1600 S Pacific St, Oceanside, CA
+200 Diamante Way, Oceanside, CA
+200 Evergreen Pky, Oceanside, CA
+200 Lustrosos St, Oceanside, CA
+2200 Via Blanca, Oceanside, CA
+2800 College Blvd, Oceanside, CA
+300 Calle Montecito, Oceanside, CA
+300 Compass Rd, Oceanside, CA
+3200 Carolyn Cir, Oceanside, CA
+3200 Roberta Ln, Oceanside, CA
+3400 Ashwood Ct, Oceanside, CA
+3600 College Blvd, Oceanside, CA
+3900 Stanford Dr, Oceanside, CA
+400 Canyon Dr, Oceanside, CA
+400 Franciscan Way, Oceanside, CA
+400 Grant St, Oceanside, CA
+400 Redondo Dr, Oceanside, CA
+4300 Crater Lk, Oceanside, CA
+4500 Calle Del Palo, Oceanside, CA
+4500 Mardi Gras St, Oceanside, CA
+4700 Calle Las Positas, Oceanside, CA
+4700 Sequoia Pl, Oceanside, CA
+4700 Stephanie Pl, Oceanside, CA
+4800 Sol Sitio St, Oceanside, CA
+4800 Tacayme Dr, Oceanside, CA
+500 Big Bnd, Oceanside, CA
+500 Big Sky Dr, Oceanside, CA
+500 Los Arbolitos Blvd, Oceanside, CA
+5200 Mandarin Dr, Oceanside, CA
+5300 Rio Plata Dr, Oceanside, CA
+600 Charles Dr, Oceanside, CA
+700  BLOCK POINT REYES,  Oceanside CA
+700 Point Reyes, Oceanside, CA
+700 Rena Dr, Oceanside, CA
+800 Dana Pt, Oceanside, CA
+3800 Mission Ave, Oceanside, CA
+4100 Tiberon Dr, Oceanside, CA
+3100 Morningside Dr, Oceanside, CA
+1800 Laurel Rd, Oceanside, CA
+3200 Production Ave, Oceanside, CA
+500 Mesa Breeze Way, Oceanside, CA
+3500 Mc Intire Cir, Oceanside, CA
+1200 Ivey Rnch, Oceanside, CA
+800 S Pacific St, Oceanside, CA
+700 S 10Th St, Ramona, CA
+1400 N Santa Fe Ave, Vista, CA
+10800 Highway 67 Highway, Lakeside, CA
+13200 Aurora Dr, Lakeside, CA
+400 Carvalos Dr, Bonita, CA
+10000 Gem Tree Way, Santee, CA
+10200 Quail Cyn, None, CA
+1100 San Julian Dr, None, CA
+11200 Gold Bar Way, Lakeside, CA
+13000 Carriage Rd, Poway, CA
+13400 Highway 8 Business Highway, Lakeside, CA
+13900 El Monte Rd, Lakeside, CA
+1500 Sun Dial Ter, None, CA
+15400 Olde Highway 80 Highway, None, CA
+1600 Penasco Rd, None, CA
+200 Chinaberry Ln, San Marcos, CA
+400 E Bradley Ave, None, CA
+600 Ida Ave, Solana Beach, CA
+700 Sycamore Ave, Vista, CA
+8800 Bushy Hl, Santee, CA
+9400 Single Oak Dr, Lakeside, CA
+12100 Orange Crest Ct, Lakeside, CA
+8900 Gorge Pl, Santee, CA
+1000 Park Hl, None, CA
+1700 Silverfox Ln, Fallbrook, CA
+400  BLOCK 03RD AVENUE,  San Diego CA
+400 03Rd Ave, San Diego, CA
+10800 Aderman Ave, San Diego, CA
+1400 Cactusridge St, San Diego, CA
+1400 Honeysuckle Ln, San Diego, CA
+1500 Torrey Pnes, San Diego, CA
+1700 Attix St, San Diego, CA
+2100 Grand Ave, San Diego, CA
+2300 Leonardo St, Non-Regional, CA
+2300 Paseo Dorado, San Diego, CA
+3000 Logan Ave, San Diego, CA
+4300 Landis St, San Diego, CA
+5100 Balboa Arms Dr, San Diego, CA
+7100 Navajo Rd, San Diego, CA
+7400 Goode St, San Diego, CA
+7600 Golfcrest Dr, San Diego, CA
+7800 Eads Ave, San Diego, CA
+9300 Balboa Ave, San Diego, CA
+3800 Marlborough Ave, San Diego, CA
+3900 08Th Ave, San Diego, CA
+6000 Chandler Dr, San Diego, CA
+4300 46Th St, San Diego, CA
+2700 Howard Ave, San Diego, CA
+7000 Friars Rd, San Diego, CA
+800 Missouri St, San Diego, CA
+800 05Th Ave, San Diego, CA
+9200 Village Gln, San Diego, CA
+2600 Katherine St, El Cajon, CA
+400 Grant Ave, El Cajon, CA
+500 Lincoln Ave, El Cajon, CA
+600 Skyview St, El Cajon, CA
+100 Valley Blvd, Escondido, CA
+500 W 11Th Ave, Escondido, CA
+5000 Comanche Dr, La Mesa, CA
+5000 Williams Ave, La Mesa, CA
+7500 Olive Pl, La Mesa, CA
+8200 Lemon Grv, Lemon Grove, CA
+N Clairmont Ave, National City, CA
+2700 E  BLOCK 08TH STREET,  National City CA
+2700 E 08Th St, National City, CA
+3500 Windrift Way, Oceanside, CA
+1900 S Santa Fe Ave, None, CA
+, County Unincorporated, CA
+100 Eaton Way, Vista, CA
+1200 Calle Jules, Vista, CA
+12300 Kerran St, Poway, CA
+12300 Lakeshore Dr, Lakeside, CA
+1400 Alturas Rd, Fallbrook, CA
+14600 Winter Crk, Valley Center, CA
+1500 Angelus Ave, Lemon Grove, CA
+200 Chinaberry Ln, San Marcos, CA
+200 N Mission Rd, Fallbrook, CA
+200 W San Marcos Blvd, San Marcos, CA
+28200 N Lake Wohlford Rd, Valley Center, CA
+300 Marcos St, San Marcos, CA
+300 Santa Fe Dr, Encinitas, CA
+300 N Melrose Dr, Vista, CA
+400 Ammunition Rd, Fallbrook, CA
+400 E Indian Rock Rd, Vista, CA
+400 W Mission Rd, San Marcos, CA
+7600 Broadway, Lemon Grove, CA
+8300 Baranca Ct, Spring Valley, CA
+8400 Avnda Angulia, Spring Valley, CA
+9300 Bakbia Ave, County Unincorporated, CA
+1500 Primera St, Lemon Grove, CA
+, County Unincorporated, CA
+, El Cajon, CA
+, San Marcos, CA
+Unknown, Unknown, CA
+1100 Alturas Rd, Fallbrook, CA
+13600 E Lakeview Rd, Lakeside, CA
+1800 Gatepost Rd, Encinitas, CA
+3800 Linda Vis, San Marcos, CA
+El Cajon Blvd
+9400 Winter Gdns, Lakeside, CA
+200 Citrus Ave, Imperial Beach, CA
+500  BLOCK OPAL DRIVE,  Julian CA
+500 Opal Dr, Julian, CA
+14400 Rios Cyn, None, CA
+1900 Arnold Way, Alpine, CA
+600 Santa Helena, Solana Beach, CA
+6200 Miramar Rd, San Diego, CA
+, San Diego, CA
+100 Coolwater Dr, San Diego, CA
+1000 B St, San Diego, CA
+1000 Kelton Rd, San Diego, CA
+10500 Viacha Dr, San Diego, CA
+10600 Birch Blf, San Diego, CA
+1200 Debenmark Pl, San Diego, CA
+12400 Via Cabezon, San Diego, CA
+12600 High Blf, San Diego, CA
+1300 Kenalan Dr, San Diego, CA
+1600 Guy St, San Diego, CA
+1800 Sunset Clfs, San Diego, CA
+200 Willie James Jones Ave, San Diego, CA
+200 N 03Rd St, San Diego, CA
+200 W Verdugo Ave, San Diego, CA
+2000 Harrison Ave, San Diego, CA
+2000 Oriole St, San Diego, CA
+2400 Fairmount Ave, San Diego, CA
+2700 Tuscaloosa St, San Diego, CA
+2800 Madison Ave, San Diego, CA
+2900 Clay Ave, San Diego, CA
+300 17Th St, San Diego, CA
+3100 De Vinci, San Diego, CA
+3800 50Th St, San Diego, CA
+3900 Sequoia St, San Diego, CA
+400 Cuyamaca Ave, San Diego, CA
+400 Tulare St, Non-Regional, CA
+4000 08Th Ave, San Diego, CA
+4000 Messina Dr, San Diego, CA
+4100 35Th St, San Diego, CA
+4100 Utah St, San Diego, CA
+4100 W Point Loma Blvd, San Diego, CA
+4300  BLOCK 49TH STREET,  San Diego CA
+4300 49Th St, San Diego, CA
+4300 51St St, San Diego, CA
+4400 Campus Ave, San Diego, CA
+4600 Zion Ave, San Diego, CA
+4700 E Mtn Vw, San Diego, CA
+4800 Jarrett Ct, San Diego, CA
+500 Palmwood Dr, San Diego, CA
+5400 Redland Dr, San Diego, CA
+5400 Santa Margarita St, San Diego, CA
+5500 Lenox Dr, San Diego, CA
+5800 Thorn St, San Diego, CA
+600 Sears Ave, San Diego, CA
+600 S 42Nd St, San Diego, CA
+6200 Camto Del Oeste, San Diego, CA
+6300 Lambda Dr, San Diego, CA
+700 Carefree Dr, San Diego, CA
+7100 Jacmar Ave, San Diego, CA
+7500 Tuscany Ln, San Diego, CA
+7500 Wallingford Ct, San Diego, CA
+7800 Skyline Dr, San Diego, CA
+7900 Cronan Cir, San Diego, CA
+8700 Complex Dr, San Diego, CA
+900 W Dakota Ave, San Diego, CA
+9300 Babauta Rd, San Diego, CA
+9900 Connell Rd, San Diego, CA
+3000 Ingelow St, San Diego, CA
+3100 N Harbor Dr, San Diego, CA
+8800 Pinecrest Ave, San Diego, CA
+10200 Bordelon St, San Diego, CA
+11400 Scripps Crk, San Diego, CA
+200 Parkbrook Way, San Diego, CA
+3200 Webster Ave, San Diego, CA
+4200 40Th St, San Diego, CA
+4700 W Mountain Vw, San Diego, CA
+800 Angelus Ave, San Diego, CA
+4200 Manzanita Dr, San Diego, CA
+4200 Poplar St, San Diego, CA
+1600  BLOCK 06TH AVENUE,  San Diego CA
+1600 06Th Ave, San Diego, CA
+2400 University Ave, San Diego, CA
+2300 Modesto St, San Diego, CA
+7100 Jacmar Ave, San Diego, CA
+500 Townsite Dr, Vista, CA
+1300 Olive Ave, Vista, CA
+900 National City Blvd, National City, CA
+11200 Gold Pan Aly, Lakeside, CA
+24800 Celtic Ct, Ramona, CA
+500 Market St, San Diego, CA
+500 W 08Th St, National City, CA
+6200 Henderson Dr, La Mesa, CA
+4200 Wightman St, San Diego, CA
+600 04Th Ave, San Diego, CA
+10200 Mast Blvd, Santee, CA
+300 Broadway, Chula Vista, CA
+2300 Shelter Is, San Diego, CA
+4200 Wilson Ave, San Diego, CA
+14100 Community Rd, Poway, CA
+300 04Th Ave, San Diego, CA
+200 65Th St, San Diego, CA
+500 W Washington Ave, Escondido, CA
+600 W Lincoln Ave, Escondido, CA
+4500 Bond St, San Diego, CA
+6700 Benson Ave, San Diego, CA
+500 Requeza St, Encinitas, CA
+2700 State St, Carlsbad, CA
+700 05Th Ave, San Diego, CA
+1200 E Palomar St, Chula Vista, CA
+2300 Presidio Dr, San Diego, CA
+500 F St, San Diego, CA
+800 05Th Ave, San Diego, CA
+10900 N Torrey Pnes, San Diego, CA
+200 Kennedy St, Chula Vista, CA
+500 F St, San Diego, CA
+100 Orange Ave, Coronado, CA
+1500 Tavern Rd, Alpine, CA
+1200  BLOCK HACIENDA DRIVE,  Vista CA
+1200 Hacienda Dr, Vista, CA
+300 Emerald Dr, Vista, CA
+2100 Caminito Del Barco, Del Mar, CA
+, County Unincorporated, CA
+1300 Skyridge Ct, San Marcos, CA
+500 Braun Ave, San Diego, CA
+3400 James Dr, Carlsbad, CA
+300 Roosevelt St, Chula Vista, CA
+3400 Vienna St, San Diego, CA
+300 Plaza Calimar, Chula Vista, CA
+3600 Central Ave, San Diego, CA
+6600 Montezuma Rd, San Diego, CA
+400 Harbor Dr, Oceanside, CA
+800 Grand Ave, San Diego, CA
+900 Tempera Ct, Oceanside, CA
+4300 Home Ave, San Diego, CA
+1000 Garnet Ave, San Diego, CA
+S Coast Hwy / Eaton St, Oceanside, CA
+Thunder Dr / Westwood Rd, Oceanside, CA
+10100 Keppler Dr, San Diego, CA
+1000 La Ventana Ct, None, CA
+7900 Health Ctr, San Diego, CA
+700 Madison Ave, Chula Vista, CA
+1400 Peach Ave, El Cajon, CA
+100 Lincoln Ave, El Cajon, CA
+800 Ballantyne St, El Cajon, CA
+600 Broadway, San Diego, CA
+3500 Beyer Blvd, San Diego, CA
+6500 Burgundy St, San Diego, CA
+3800 Hatton St, San Diego, CA
+1200 04Th Ave, Chula Vista, CA
+1100 E Alvarado St, Fallbrook, CA
+100 E Old Julian Hwy, Ramona, CA
+400 E St, San Diego, CA
+8200 Vincetta Dr, La Mesa, CA
+1100 Garden Vw, Encinitas, CA
+900 W Valley Pky, Escondido, CA
+700  BLOCK BROADWAY,  San Diego CA
+700 Broadway, San Diego, CA
+1100 11Th Ave, San Diego, CA
+300 Carlsbad Vlg, Carlsbad, CA
+600 F St, San Diego, CA
+1200 Borden Rd, Escondido, CA
+6000 Samuel St, La Mesa, CA
+4200 Vista Panorama Way, Oceanside, CA
+3800 Demus St, San Diego, CA
+10200 Keppler Dr, San Diego, CA
+3000 Mission Blvd, San Diego, CA
+2000 Felspar St, San Diego, CA
+8000 Entrada De Luz East, San Diego, CA
+1600 Coronado Ave, San Diego, CA
+1700 Kettner Blvd, San Diego, CA
+2100 Island Ave, San Diego, CA
+100 E Naples St, Chula Vista, CA
+13300 Community Rd, Poway, CA
+1200 Jade Cv, San Diego, CA
+2800 Market St, San Diego, CA
+8 Drive /,  San Diego Ca
+Palm St / Skyline Dr, Lemon Grove, CA
+7600 Clairemont Mesa Blvd, San Diego, CA
+200 S El Portal St, Encinitas, CA
+400 Garden Pl, Chula Vista, CA
+300 Shady Ln, El Cajon, CA
+200 28Th St, San Diego, CA
+700 Quail St, San Diego, CA
+2100 Fowler Dr, San Diego, CA
+11200 Big Cone Dr, Lakeside, CA
+2100 Fowler Dr, San Diego, CA
+1500 Orange Ave, Coronado, CA
+2100 Shoreview Pl, Chula Vista, CA
+5200 Manhasset Dr, San Diego, CA
+10900 N Torrey Pnes, San Diego, CA
+600 Paul St, Escondido, CA
+300 31St St, San Diego, CA
+5700 Central Ave, Bonita, CA
+4300  BLOCK SUMMIT DRIVE,  La Mesa CA
+4300 Summit Dr, La Mesa, CA
+3900 08Th Ave, San Diego, CA
+400 E Mission Ave, Escondido, CA
+600 Ecken Rd, El Cajon, CA
+10500 Paseo De Linda, None, CA
+Palm St / Washington St, Lemon Grove, CA
+4600 Mt Armet Dr, San Diego, CA
+10900 N Torrey Pnes, San Diego, CA
+3400 Cowley Way, San Diego, CA
+1100 Madden Ave, San Diego, CA
+4400 Lamont St, San Diego, CA
+800 Emerald St, San Diego, CA
+6800 San Miguel Ave, Lemon Grove, CA
+4500 Ingraham St, San Diego, CA
+3700 Hilltop Dr, Lemon Grove, CA
+Prescott Ave / E Washington Ave, El Cajon, CA
+4700 Frazee Rd, Oceanside, CA
+1800 Reo Dr, San Diego, CA
+3600 Loma Way, San Diego, CA
+1800 Fern St, San Diego, CA
+200 Talus St, Chula Vista, CA
+3500 Sparling St, San Diego, CA
+5600 Montezuma Rd, San Diego, CA
+600 Palomar St, Chula Vista, CA
+800 05Th Ave, San Diego, CA
+700 N Coast Hwy, Oceanside, CA
+800 05Th Ave, San Diego, CA
+4300 Rainier Way, Oceanside, CA
+100 E El Norte Pky, Escondido, CA
+Clover Trl / Live Oaks Trl, Boulevard, CA
+10100 Sierra Madre Rd, Spring Valley, CA
+27400 Old Highway 80 Highway, Pine Valley, CA
+1000 Leland St, Spring Valley, CA
+6000 Avenida Cuatro Vient, Rancho Santa Fe, CA
+300 47Th St, San Diego, CA
+200 Parkbrook Pl, San Diego, CA
+700 Quail St, San Diego, CA
+700  BLOCK ALVIN STREET,  San Diego CA
+700 Alvin St, San Diego, CA
+6800 Camto Montanoso, San Diego, CA
+900 04Th Ave, San Diego, CA
+3500 Myrtle Ave, San Diego, CA
+1200 Monterey Ave, Chula Vista, CA
+700 Brookstone Rd, Chula Vista, CA
+300 Walnut Ave, Carlsbad, CA
+4400 33Rd Pl, San Diego, CA
+Batiquitos Dr / Daisy Ave, Carlsbad, CA
+300 S Weitzel St, Oceanside, CA
+400 Chambers St, El Cajon, CA
+9800 Deer Trl, None, CA
+4700 Regatta Ln, San Diego, CA
+5100 Cam Playa Portofino, San Diego, CA
+500 Broadway, Chula Vista, CA
+12400 Poway Rd, Poway, CA
+3700 Crown Pt, San Diego, CA
+1400 E Lexington Ave, El Cajon, CA
+200 W Lincoln Ave, Escondido, CA
+500 Felicita Ave, Spring Valley, CA
+500 N Twin Oaks Vly, San Marcos, CA
+3200 Greyling Dr, San Diego, CA
+1400 C St, San Diego, CA
+3200 06Th Ave, San Diego, CA
+3700 Fairmount Ave, San Diego, CA
+1800 Don Lee Pl, Escondido, CA
+200 S Highway 101 Highway, Solana Beach, CA
+300 Lincoln Ave, El Cajon, CA
+15600 Pomerado Rd, Poway, CA
+10700 Jamacha, Spring Valley, CA
+13100 Bowron Rd, Poway, CA
+200 Ave De La Plz, Vista, CA
+2900 Cypress Ave, Lemon Grove, CA
+500 Gail Dr, Vista, CA
+600 S Rancho Santa Fe Rd, San Marcos, CA
+, El Cajon, CA
+2200 Buckman Spgs, Campo, CA
+2200  BLOCK LEDGEVIEW LANE,  Spring Valley CA
+2200 Ledgeview Ln, Spring Valley, CA
+2500 Ulric St, San Diego, CA
+4100 36Th St, San Diego, CA
+800 Lori Ln, Chula Vista, CA
+2200 San Diego Ave, San Diego, CA
+200 Oxford St, Chula Vista, CA
+9600 Lakeview Rd, Lakeside, CA
+4300 51St St, San Diego, CA
+800 S Orange Ave, El Cajon, CA
+800 S Orange Ave, El Cajon, CA
+100 N Sunshine Ave, El Cajon, CA
+100 Santar Pl, San Marcos, CA
+800 Cte Merano, None, CA
+600 Mercantile St, Vista, CA
+3500 45Th St, San Diego, CA
+3400 Alonquin Way, San Diego, CA
+4200 Cherokee Ave, San Diego, CA
+3700 Cam Del Rio West, San Diego, CA
+4400 50Th St, San Diego, CA
+1400 Woodcrest St, Chula Vista, CA
+4600 Farmdale Ave, County Unincorporated, CA
+Main St / Rotanzi St, Ramona, CA
+Cajon Rd / Pepper Dr, None, CA
+2500 Pio Pico Dr, Carlsbad, CA
+600 E St, Chula Vista, CA
+200 N Citrus Ave, Escondido, CA
+7100 University Ave, La Mesa, CA
+3200 Lemon Ln, Lemon Grove, CA
+1900 Valle Vis, National City, CA
+300 E 22Nd St, National City, CA
+4200 Willow Ct, National City, CA
+1600 Mc Kinley Ave, National City, CA
+400 Brooks St, Oceanside, CA
+1900 S Nevada St, Oceanside, CA
+2200 Watson Way, Vista, CA
+1100 Madera Ln, Vista, CA
+1400 Graves Ave, None, CA
+200  BLOCK CHINABERRY LANE,  San Marcos CA
+200 Chinaberry Ln, San Marcos, CA
+2100 Hoberg Rd, Borrego Springs, CA
+2400 Nielsen St, County Unincorporated, CA
+2600 Alpine Blvd, Alpine, CA
+5400 San Miguel Rd, Bonita, CA
+600 Onley Dr, Vista, CA
+8200 Lemon Grv, Lemon Grove, CA
+9500 Mission Gorge Rd, Santee, CA
+9900 Channel Rd, Lakeside, CA
+100 Aurora Ave, San Marcos, CA
+1100 Hamilton, None, CA
+15100 Lone Oak Trl, Ramona, CA
+600 Maybritt Cir, San Marcos, CA
+700 Teaberry St, Encinitas, CA
+2300 Tocayo Ave, San Diego, CA
+100 Hensley St, San Diego, CA
+100 Wedgewood Dr, San Diego, CA
+15500 Paseo Jenghiz, San Diego, CA
+1700 Pacific Bch, San Diego, CA
+2700 Boston Ave, San Diego, CA
+2800 Barnard St, San Diego, CA
+3300 C St, San Diego, CA
+4100 Chamoune Ave, San Diego, CA
+4200 54Th Pl, San Diego, CA
+5300 Camto Exquisito, San Diego, CA
+700 Vista Santa Ines, San Diego, CA
+8700 Gold Coast Dr, San Diego, CA
+900 Harlan Cir, San Diego, CA
+400 34Th St, San Diego, CA
+6700 Caminito Del Creco, San Diego, CA
+Juniper St / 32 St, San Diego, CA
+4200 Bayard St, San Diego, CA
+3200 Duke St, San Diego, CA
+11000 Elderwood Ln, San Diego, CA
+2400 Worden St, San Diego, CA
+6100 Mission Gorge Rd, San Diego, CA
+1700 Roosevelt Ave, San Diego, CA
+7900  BLOCK HARMARSH STREET,  San Diego CA
+7900 Harmarsh St, San Diego, CA
+1800 N Broadway, Escondido, CA
+500 W Vista Way, Vista, CA
+600 Sweetwater Rd, Spring Valley, CA
+3800 Menlo Ave, San Diego, CA
+1700 La Honda Dr, Escondido, CA
+2500 Jamacha Rd, None, CA
+3600 Lemon Grv, Lemon Grove, CA
+600 N 02Nd St, El Cajon, CA
+3600 Lemon Grv, Lemon Grove, CA
+2000 Abbott St, San Diego, CA
+2000 Abbott St, San Diego, CA
+6800 El Cajon Blvd, San Diego, CA
+1200 E J St, Chula Vista, CA
+400 Vernon Way, El Cajon, CA
+, None, CA
+11100 Batavia Cir, San Diego, CA
+17400 Camto Siega, San Diego, CA
+6600 Kelly St, San Diego, CA
+2100 W Washington St, San Diego, CA
+5900 Dandridge Ln, San Diego, CA
+9400 Kearny Mesa Rd, San Diego, CA
+400 Graves Ave, El Cajon, CA
+2000 Fern St, San Diego, CA
+E Flower St, Chula Vista, CA
+800 Euclid Ave, National City, CA
+3200 Lemon Grv, Lemon Grove, CA
+700 Loma Alta Ter, Vista, CA
+1500 Da Nang Dr, Coronado, CA
+13700 Paseo Cardiel, San Diego, CA
+1700 Garnet Ave, San Diego, CA
+2000 L Ave, National City, CA
+3700 Plaza Dr, Oceanside, CA
+12300 Kerran St, Poway, CA
+13000 Bowron Rd, Poway, CA
+31600 Oak Gln, Valley Center, CA
+13800 Poway Rd, Poway, CA
+13800  BLOCK POWAY ROAD,  Poway CA
+13800 Poway Rd, Poway, CA
+1700 Garnet Ave, San Diego, CA
+1300 Santa Rita Dr, Chula Vista, CA
+2300 E Valley Pky, Escondido, CA
+100 Old Grv, Oceanside, CA
+400 Firebird Ln, San Marcos, CA
+Buena Crk / S Santa Fe Ave, None, CA
+1400 13Th St, Imperial Beach, CA
+2700 Ascot Ave, Carlsbad, CA
+100 Jamul Ave, Chula Vista, CA
+Blue Sage Way / Via Rancho Rd, Oceanside, CA
+12200 Vista Del Cajon Rd, Lakeside, CA
+7900 El Paseo Grande, San Diego, CA
+4300 La Jolla Vlg, San Diego, CA
+200 W Mission Rd, San Marcos, CA
+200 S Nevada St, Oceanside, CA
+9500 Red Diamond Dr, Lakeside, CA
+700 W Valley Pky, Escondido, CA
+, Non-Regional, CA
+1900 Wright Pl, Carlsbad, CA
+2500 Orion Way, Carlsbad, CA
+2700 Avnda De Anita, Carlsbad, CA
+2700 Levante St, Carlsbad, CA
+2900 Lancaster Rd, Carlsbad, CA
+3000 Harding St, Carlsbad, CA
+7000 Partridge Pl, Carlsbad, CA
+Unknown St
+1100 Cam De Las Ondas, Carlsbad, CA
+2500 El Cam Real, Carlsbad, CA
+1900 Kellogg Ave, Carlsbad, CA
+500 Los Altos Dr, Chula Vista, CA
+100 Fletcher Pky, El Cajon, CA
+1200 Avocado Ave, El Cajon, CA
+1000 Joshua St, Escondido, CA
+1300 W 09Th Ave, Escondido, CA
+1700 W Citracado Pky, Escondido, CA
+2000 Lee Dr, Escondido, CA
+2000  BLOCK MATTHEW PLACE,  Escondido CA
+2000 Matthew Pl, Escondido, CA
+2200 Holly Ave, Escondido, CA
+300 Lansing Crk, Escondido, CA
+300 N Juniper St, Escondido, CA
+400 N Midway Dr, Escondido, CA
+500 W 08Th Ave, Escondido, CA
+800 N Fig St, Escondido, CA
+1200 W 15Th Ave, Escondido, CA
+1400 Knoll Park, Escondido, CA
+400 S Hidden Trl, Escondido, CA
+900 Del Dios Hwy, Escondido, CA
+1200 Simpson Way, Escondido, CA
+2000 Alexander Dr, Escondido, CA
+200 S Quince St, Escondido, CA
+6000 Severin Dr, La Mesa, CA
+8800 Murray Dr, La Mesa, CA
+800 E 15Th St, National City, CA
+400 Big Sky Dr, Oceanside, CA
+12300 Old Pomerado Rd, Poway, CA
+1300 W 04Th Ave, None, CA
+100 Rosebay Dr, Encinitas, CA
+100 Townsite Dr, Vista, CA
+1000 N El Camino Real, Encinitas, CA
+10100 Austin Dr, Spring Valley, CA
+10700 Jamacha Blvd, Spring Valley, CA
+1100 Madera Ln, Vista, CA
+11600 Vernette Ct, None, CA
+11900 Royal Rd, Lakeside, CA
+1200 Calla Ave, Imperial Beach, CA
+12600 Laurel St, Lakeside, CA
+13400 Silver Lk, Poway, CA
+200 Olive Ave, Vista, CA
+200 Spanish Spur, Fallbrook, CA
+2500 Granger Ave, National City, CA
+25600 Potrero Park, Tecate, CA
+2700 Washington St, Lemon Grove, CA
+28800 Old Highway 80 Highway, Descanso, CA
+300  BLOCK ACATENO AVENUE,  Vista CA
+300 Acateno Ave, Vista, CA
+300 Magnolia Ave, Ramona, CA
+300 Osborne St, Vista, CA
+300 Stratford Ct, Del Mar, CA
+300 W East Dr, Vista, CA
+3000 Highlands Blvd, Spring Valley, CA
+3000 Highlands Way, Spring Valley, CA
+400 Pommel Way, San Marcos, CA
+500 N Melrose Dr, Vista, CA
+700 La Vida Cir, Vista, CA
+700 Melba Rd, Encinitas, CA
+9800 Dale Ave, Spring Valley, CA
+1100 Florence St, Imperial Beach, CA
+300 Marcos St, San Marcos, CA
+9100 Clearlake Way, Lakeside, CA
+300 E Alvarado St, Fallbrook, CA
+1100 Alexandra Ln, Encinitas, CA
+1300 Cam Del Mar, Del Mar, CA
+16600 El Zorro Vis, Rancho Santa Fe, CA
+700 Sunflower St, Encinitas, CA
+1600 Grapevine Ln, Vista, CA
+16300 Nyemil Pass, Valley Center, CA
+1700 Laguna Ln, Vista, CA
+8100 Jade Coast Rd, San Diego, CA
+3900 58Th St, San Diego, CA
+2500 Clairemont Dr, San Diego, CA
+400 Redwood St, San Diego, CA
+4700 33Rd St, San Diego, CA
+100 N Soto St, San Diego, CA
+10600 Matinal Cir, San Diego, CA
+10600 Porto Ct, San Diego, CA
+11600 Alderhill Ter, San Diego, CA
+11700 Springside Rd, San Diego, CA
+13000 Entreken Ave, San Diego, CA
+13200 Salmon Riv, San Diego, CA
+13800 Paseo Cardiel, San Diego, CA
+14400 Cte Lampara, San Diego, CA
+15000  BLOCK AVNDA MONTUOSA,  San Diego CA
+15000 Avnda Montuosa, San Diego, CA
+16000 Babcock St, San Diego, CA
+1700 Midvale Dr, San Diego, CA
+17000 Abra Way, San Diego, CA
+17100 W Bernardo Dr, San Diego, CA
+17400 Matinal Rd, San Diego, CA
+17700 Bellechase Cir, San Diego, CA
+2500 Fairmount Ave, San Diego, CA
+300 W East Dr, San Diego, CA
+3500 Island Ave, San Diego, CA
+3600 Van Dyke Ave, San Diego, CA
+3700 Van Dyke Ave, San Diego, CA
+400 63Rd St, San Diego, CA
+400 Meadowbrook Dr, San Diego, CA
+4100 Van Dyke Ave, San Diego, CA
+4700 Home Ave, San Diego, CA
+4900 Manomet St, San Diego, CA
+5300 Repecho Dr, San Diego, CA
+5400 University Ave, San Diego, CA
+5500 Kearny Mesa Rd, San Diego, CA
+5500 Michael St, San Diego, CA
+6100 Verda Ln, San Diego, CA
+6400 Parkland Dr, San Diego, CA
+7200 Beagle St, San Diego, CA
+800 16Th St, San Diego, CA
+8300 Santa Arminta Ave, San Diego, CA
+8400 Flanders Dr, San Diego, CA
+8900 Twin Trl, San Diego, CA
+9500 Paseo Temporada, San Diego, CA
+9500 Yolanda Ave, San Diego, CA
+2900 Iris Ave, San Diego, CA
+4100 52Nd St, San Diego, CA
+4100 Hilltop Dr, San Diego, CA
+5100 La Paz Dr, San Diego, CA
+800 Pyramid St, San Diego, CA
+12400 Floresta Way, San Diego, CA
+1600 06Th Ave, San Diego, CA
+1000  BLOCK CAM DEL RIO SOUTH,  San Diego CA
+1000 Cam Del Rio South, San Diego, CA
+10200 Arrow Rock Ave, San Diego, CA
+1000 Hornblend St, San Diego, CA
+5500 Balboa Arms Dr, San Diego, CA
+1300 Lagan Ave, Vista, CA
+1500 S Melrose Dr, Vista, CA
+1000 Tesoro Ave, San Marcos, CA
+3100 Midway Dr, San Diego, CA
+3600 N Harbor Dr, San Diego, CA
+Ramp Highway 5 Highway / La Costa Ave, Carlsbad, CA
+1500 Concorde Way, Chula Vista, CA
+1200 E Madison Ave, El Cajon, CA
+4600 N River Rd, Oceanside, CA
+4300 Cassanna Way, Oceanside, CA
+8700 Monte Verde Dr, San Diego, CA
+2200 Chicago St, San Diego, CA
+8800 Costa Verde Blvd, San Diego, CA
+3100 02Nd Ave, San Diego, CA
+500 W Washington Ave, Escondido, CA
+2200 Main St, Chula Vista, CA
+2500 Clairemont Dr, San Diego, CA
+2300 Catalina Cir, Oceanside, CA
+1100 N Ash St, Escondido, CA
+3400 Cte Las Tonadas, San Diego, CA
+600 B St, San Diego, CA
+9200 Aero Dr, San Diego, CA
+500 E 03Rd Ave, Escondido, CA
+2700 Cornelius Pl, Lemon Grove, CA
+500 Broadway, Chula Vista, CA
+700 Ada St, Chula Vista, CA
+200 Norton Ave, National City, CA
+4100 Lonnie St, Oceanside, CA
+3100 Grim Ave, San Diego, CA
+3700 Florida St, San Diego, CA
+3100 31St St, San Diego, CA
+Brooks St / Mission Ave, Oceanside, CA
+700 S Escondido Blvd, Escondido, CA
+1200 E  BLOCK VISTA WAY,  Vista CA
+1200 E Vista Way, Vista, CA
+400 Garfield St, Oceanside, CA
+12900 Mapleview St, Lakeside, CA
+7100 Mission Gorge Rd, San Diego, CA
+Broadway, Chula Vista, CA
+4500 La Jolla Vlg, San Diego, CA
+3600 Arizona St, San Diego, CA
+1100 Wildwood Ct, Chula Vista, CA
+400 S Colorado Ave, Chula Vista, CA
+100 E 05Th Ave, Escondido, CA
+Poinsettia Ave / Smilax Rd, None, CA
+200 Paden Dr, Spring Valley, CA
+1800 Golden Acorn Way, Boulevard, CA
+13100 Mapleview St, Lakeside, CA
+4900 35Th St, San Diego, CA
+4000 Winona Ave, San Diego, CA
+1100 Oro St, None, CA
+5100 Wilson St, La Mesa, CA
+4600 Georgia St, San Diego, CA
+5000 Comanche Dr, La Mesa, CA
+4800 Meadowbrook Dr, Oceanside, CA
+4700 Home Ave, San Diego, CA
+2600 Buena Vis, Lemon Grove, CA
+900 S Pacific St, Oceanside, CA
+4900 El Cajon Blvd, San Diego, CA
+200 W Aviation Rd, Fallbrook, CA
+1300 Oakdale Ave, El Cajon, CA
+3000 Plaza Bonita Rd, National City, CA
+1800 Tavern Ct, Alpine, CA
+700 Center Dr, San Marcos, CA
+13100 Highway 8 Business Highway, Lakeside, CA
+7700 Belden St, San Diego, CA
+2100 Cam De La Reina, San Diego, CA
+3300 Grand Ave, San Marcos, CA
+3400 Descanso Ave, San Marcos, CA
+3100 Roadrunner Rd, San Marcos, CA
+1100 Palm Ave, National City, CA
+7700  BLOCK HIGH STREET,  La Mesa CA
+7700 High St, La Mesa, CA
+5500 Clairemont Mesa Blvd, San Diego, CA
+Dewey St / Irving Ave, San Diego, CA
+3500 Trenton Ave, San Diego, CA
+900 Fiesta Is, San Diego, CA
+Adolphia St / Black Mtn, San Diego, CA
+Buckley St / Seiler St, Poway, CA
+4400 Cherokee Ave, San Diego, CA
+300 N Coast Hwy, Oceanside, CA
+Buckley St / Seiler St, Poway, CA
+700 N Twin Oaks Vly, San Marcos, CA
+1100 Grove Ave, Imperial Beach, CA
+600 Chalcedony St, San Diego, CA
+1600 Petal Dr, San Diego, CA
+Twain Ave / Wanda Ct, San Diego, CA
+3700 10Th Ave, San Diego, CA
+1600 06Th Ave, San Diego, CA
+400 Aurora St, San Diego, CA
+3300 Camto Eastbluff, San Diego, CA
+5500 Clairemont Mesa Blvd, San Diego, CA
+100 Palomar St, Chula Vista, CA
+Buckley St / Seiler St, Poway, CA
+3600 42Nd St, San Diego, CA
+200 S 33Rd St, San Diego, CA
+12300 Meadowbrook Ln, Poway, CA
+8100 Valley Vw, La Mesa, CA
+, County Unincorporated, CA
+9800 Mission Gorge Rd, Santee, CA
+4300 Cam De La Plz, San Diego, CA
+12300 Meadowbrook Ln, Poway, CA
+5500 Clairemont Mesa Blvd, San Diego, CA
+400 S Colorado Ave, Chula Vista, CA
+1400 Quivira Rd, San Diego, CA
+500 Aster St, Escondido, CA
+500 Aster St, Escondido, CA
+500 Hunte Pky, Chula Vista, CA
+300 W Grand Ave, Escondido, CA
+200 S  BLOCK BELMONT AVENUE,  National City CA
+200 S Belmont Ave, National City, CA
+3000 Plaza Bonita Rd, National City, CA
+1000 Vereda Callada, None, CA
+900 Britain St, San Diego, CA
+100 Louisiana Ave, San Diego, CA
+300 Horton Plz, San Diego, CA
+5600 Lamas St, San Diego, CA
+1100 Oliver Ave, San Diego, CA
+9800 Stonecrest Blvd, San Diego, CA
+Borden Cir / Borden Rd, San Marcos, CA
+700 Harrahs Rincon Way, Valley Center, CA
+1600 Adams Ave, San Diego, CA
+2500 El Cam Real, Carlsbad, CA
+Oceanside Blvd / Rancho Del Oro Dr, Oceanside, CA
+4600 Kansas St, San Diego, CA
+200 W Arbor Dr, San Diego, CA
+1200 03Rd Ave, Chula Vista, CA
+1100 Wilson, El Cajon, CA
+900 05Th Ave, Chula Vista, CA
+3200 Bonita Rd, Bonita, CA
+1100 Island Ave, San Diego, CA
+500 Wisteria St, Chula Vista, CA
+1200 Denver Ln, El Cajon, CA
+900 E Washington Ave, Escondido, CA
+1200 Rancho Pacifica Pl, Vista, CA
+9500 Campo Rd, Spring Valley, CA
+2900 Ridge Vw, San Diego, CA
+6000 Rancho Msn, San Diego, CA
+1500 La Playa Ave, San Diego, CA
+11800 Camto Ronaldo, San Diego, CA
+3300 Sports Arena Blvd, San Diego, CA
+1300 Young St, El Cajon, CA
+2000 S Santa Fe Ave, None, CA
+9500 Miramar Rd, San Diego, CA
+400 Hale St, Chula Vista, CA
+800 W Harbor Dr, San Diego, CA
+N Cleveland St / Pierview Way, Oceanside, CA
+10700  BLOCK WESTVIEW PARKWAY,  San Diego CA
+10700 Westview Pky, San Diego, CA
+700 Pauma Reservation Rd, Pauma Valley, CA
+3700 University Ave, San Diego, CA
+900 Chestnut Ave, Carlsbad, CA
+04Th Ave, Chula Vista, CA
+8100 Valley Vw, La Mesa, CA
+3400 Marron Rd, Oceanside, CA
+300 Caspian Way, Imperial Beach, CA
+, Unknown, CA
+2100 S Santa Fe Ave, None, CA
+Mapleview St / Vista Parque, Lakeside, CA
+11800 Stoney Peak Dr, San Diego, CA
+11100 Ganesta Rd, San Diego, CA
+400 W Washington St, San Diego, CA
+700 Dominion St, San Diego, CA
+3600 45Th St, San Diego, CA
+Unknown, San Diego, CA
+900 S 26Th St, San Diego, CA
+2200 Chicago St, San Diego, CA
+800 Park Blvd, San Diego, CA
+12000 Camto Campana, San Diego, CA
+3300 Camto Eastbluff, San Diego, CA
+4900 Madison Ave, San Diego, CA
+300 E Park Ave, Escondido, CA
+1400 Washington St, San Diego, CA
+600 F St, Chula Vista, CA
+1200 Holly St, Oceanside, CA
+800 13Th St, Imperial Beach, CA
+9500 Aero Dr, San Diego, CA
+13800 Durango Dr, San Diego, CA
+2900 L St, San Diego, CA
+9800 Mission Gorge Rd, Santee, CA
+4900 University Ave, San Diego, CA
+K St / Park Blvd, San Diego, CA
+8800 Navajo Rd, San Diego, CA
+S Escondido Blvd / W 13Th Ave, Escondido, CA
+Caspian Way / Heron Cir, Carlsbad, CA
+1300  BLOCK LAUREL TREE ROAD,  Carlsbad CA
+1300 Laurel Tree Rd, Carlsbad, CA
+500 El Monte Rd, El Cajon, CA
+300 Justina Dr, Oceanside, CA
+Avnda Chapala Via, San Marcos, CA
+900 S Santa Fe Ave, Vista, CA
+7700 Via Francesco, San Diego, CA
+7400 Tooma St, San Diego, CA
+3900 Wabash Ave, San Diego, CA
+J St / 36 St, San Diego, CA
+2200 Chicago St, San Diego, CA
+2600 Ellentown Rd, San Diego, CA
+7600 Palmilla Dr, San Diego, CA
+10600 Camto Alvarez, San Diego, CA
+1200 Elkelton Blvd, Spring Valley, CA
+700 W Upas St, San Diego, CA
+Jicama Way, Chula Vista, CA
+10100 Heavenly Way, None, CA
+800 Beyer Way, San Diego, CA
+6300 El Cajon Blvd, San Diego, CA
+600 05Th Ave, Chula Vista, CA
+500 E Mission Ave, Escondido, CA
+600 Palm Ave, Imperial Beach, CA
+Unknown, Lakeside, CA
+3300 Lincoln Ave, San Diego, CA
+4300 Idaho St, San Diego, CA
+N Elm St / E Washington Ave, Escondido, CA
+100 W San Marcos Blvd, San Marcos, CA
+3000 Rosecrans Pl, San Diego, CA
+5200 Spruce St, San Diego, CA
+800 Cedar St, San Diego, CA
+4300 Genesee Ave, San Diego, CA
+Clairemont Mesa Blvd / Nb Highway 15 Highway, San Diego, CA
+6900 Linda Vis, San Diego, CA
+800 Garnet Ave, San Diego, CA
+800 N 03Rd St, El Cajon, CA
+2600 Hardy Dr, Lemon Grove, CA
+10900 N Woodside Ave, Santee, CA
+4600  BLOCK WILSON AVENUE,  San Diego CA
+4600 Wilson Ave, San Diego, CA
+7700 Hazard Ctr, San Diego, CA
+2400 Hotel Cir, San Diego, CA
+8400 Harlow Ter, San Diego, CA
+6000 Dockside St, San Diego, CA
+5100 Ewing St, San Diego, CA
+1700 S Point Dr, Chula Vista, CA
+Broadway Oro St, El Cajon, CA
+4100 Fairmount Ave, San Diego, CA
+Broadway Oro St, El Cajon, CA
+Monte Vis, Chula Vista, CA
+500 Elm St, San Diego, CA
+1600 Grand Ave, San Diego, CA
+600 S 01St St, El Cajon, CA
+1400 Ridgeback Rd, Chula Vista, CA
+2900 Unicornio St, Carlsbad, CA
+3100 Cam Del Arco, Carlsbad, CA
+3500 Harding St, Carlsbad, CA
+1500 Ocala Ct, Chula Vista, CA
+500 J St, Chula Vista, CA
+700 Brookstone Rd, Chula Vista, CA
+400 F St, Chula Vista, CA
+1400 E Lexington Ave, El Cajon, CA
+500 S Marshall Ave, El Cajon, CA
+1600 Wilson Ave, National City, CA
+4300 Serena Ave, Oceanside, CA
+16300 Nyemii Pass, Valley Center, CA
+11300 Post Hl, Lakeside, CA
+14200 Jerome Dr, Poway, CA
+1500 York Dr, None, CA
+2800 Via Asoleado, Alpine, CA
+2900 Elm Tree Ct, Spring Valley, CA
+3400 Santa Saba Rd, Borrego Springs, CA
+3900 La Cresta Way, Bonita, CA
+500 La Barca St, Spring Valley, CA
+2400 Briarwood Ct, None, CA
+3500 Corporate Ct, San Diego, CA
+3500  BLOCK LEBON DRIVE,  San Diego CA
+3500 Lebon Dr, San Diego, CA
+8400 Via Sonoma, San Diego, CA
+600 E San Ysidro Blvd, San Diego, CA
+2500 Jefferson St, Carlsbad, CA
+1800 S Myers St, Oceanside, CA
+1700 Costada Corte, Lemon Grove, CA
+2400 Montgomery Ave, Encinitas, CA
+5400 Casino Way, None, CA
+1600 Emerald St, San Diego, CA
+4800 Muir Ave, San Diego, CA
+5600 Chandler Dr, San Diego, CA
