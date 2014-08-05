@@ -94,24 +94,24 @@
 13200 Aurora Dr, Lakeside, CA
 400 Carvalos Dr, Bonita, CA
 10000 Gem Tree Way, Santee, CA
-10200 Quail Cyn, None, CA
-1100 San Julian Dr, None, CA
+10200 Quail Cyn, CA
+1100 San Julian Dr, CA
 11200 Gold Bar Way, Lakeside, CA
 13000 Carriage Rd, Poway, CA
 13400 Highway 8 Business Highway, Lakeside, CA
 13900 El Monte Rd, Lakeside, CA
-1500 Sun Dial Ter, None, CA
-15400 Olde Highway 80 Highway, None, CA
-1600 Penasco Rd, None, CA
+1500 Sun Dial Ter, CA
+15400 Olde Highway 80 Highway, CA
+1600 Penasco Rd, CA
 200 Chinaberry Ln, San Marcos, CA
-400 E Bradley Ave, None, CA
+400 E Bradley Ave, CA
 600 Ida Ave, Solana Beach, CA
 700 Sycamore Ave, Vista, CA
 8800 Bushy Hl, Santee, CA
 9400 Single Oak Dr, Lakeside, CA
 12100 Orange Crest Ct, Lakeside, CA
 8900 Gorge Pl, Santee, CA
-1000 Park Hl, None, CA
+1000 Park Hl, CA
 1700 Silverfox Ln, Fallbrook, CA
 400  BLOCK 03RD AVENUE,  San Diego CA
 400 03Rd Ave, San Diego, CA
@@ -154,7 +154,7 @@ N Clairmont Ave, National City, CA
 2700 E  BLOCK 08TH STREET,  National City CA
 2700 E 08Th St, National City, CA
 3500 Windrift Way, Oceanside, CA
-1900 S Santa Fe Ave, None, CA
+1900 S Santa Fe Ave, CA
 , County Unincorporated, CA
 100 Eaton Way, Vista, CA
 1200 Calle Jules, Vista, CA
@@ -191,7 +191,7 @@ El Cajon Blvd
 200 Citrus Ave, Imperial Beach, CA
 500  BLOCK OPAL DRIVE,  Julian CA
 500 Opal Dr, Julian, CA
-14400 Rios Cyn, None, CA
+14400 Rios Cyn, CA
 1900 Arnold Way, Alpine, CA
 600 Santa Helena, Solana Beach, CA
 6200 Miramar Rd, San Diego, CA
@@ -324,7 +324,7 @@ El Cajon Blvd
 S Coast Hwy / Eaton St, Oceanside, CA
 Thunder Dr / Westwood Rd, Oceanside, CA
 10100 Keppler Dr, San Diego, CA
-1000 La Ventana Ct, None, CA
+1000 La Ventana Ct, CA
 7900 Health Ctr, San Diego, CA
 700 Madison Ave, Chula Vista, CA
 1400 Peach Ave, El Cajon, CA
@@ -384,7 +384,7 @@ Palm St / Skyline Dr, Lemon Grove, CA
 3900 08Th Ave, San Diego, CA
 400 E Mission Ave, Escondido, CA
 600 Ecken Rd, El Cajon, CA
-10500 Paseo De Linda, None, CA
+10500 Paseo De Linda, CA
 Palm St / Washington St, Lemon Grove, CA
 4600 Mt Armet Dr, San Diego, CA
 10900 N Torrey Pnes, San Diego, CA
@@ -429,7 +429,7 @@ Clover Trl / Live Oaks Trl, Boulevard, CA
 Batiquitos Dr / Daisy Ave, Carlsbad, CA
 300 S Weitzel St, Oceanside, CA
 400 Chambers St, El Cajon, CA
-9800 Deer Trl, None, CA
+9800 Deer Trl, CA
 4700 Regatta Ln, San Diego, CA
 5100 Cam Playa Portofino, San Diego, CA
 500 Broadway, Chula Vista, CA
@@ -468,7 +468,7 @@ Batiquitos Dr / Daisy Ave, Carlsbad, CA
 800 S Orange Ave, El Cajon, CA
 100 N Sunshine Ave, El Cajon, CA
 100 Santar Pl, San Marcos, CA
-800 Cte Merano, None, CA
+800 Cte Merano, CA
 600 Mercantile St, Vista, CA
 3500 45Th St, San Diego, CA
 3400 Alonquin Way, San Diego, CA
@@ -478,7 +478,7 @@ Batiquitos Dr / Daisy Ave, Carlsbad, CA
 1400 Woodcrest St, Chula Vista, CA
 4600 Farmdale Ave, County Unincorporated, CA
 Main St / Rotanzi St, Ramona, CA
-Cajon Rd / Pepper Dr, None, CA
+Cajon Rd / Pepper Dr, CA
 2500 Pio Pico Dr, Carlsbad, CA
 600 E St, Chula Vista, CA
 200 N Citrus Ave, Escondido, CA
@@ -492,7 +492,7 @@ Cajon Rd / Pepper Dr, None, CA
 1900 S Nevada St, Oceanside, CA
 2200 Watson Way, Vista, CA
 1100 Madera Ln, Vista, CA
-1400 Graves Ave, None, CA
+1400 Graves Ave, CA
 200  BLOCK CHINABERRY LANE,  San Marcos CA
 200 Chinaberry Ln, San Marcos, CA
 2100 Hoberg Rd, Borrego Springs, CA
@@ -504,7 +504,7 @@ Cajon Rd / Pepper Dr, None, CA
 9500 Mission Gorge Rd, Santee, CA
 9900 Channel Rd, Lakeside, CA
 100 Aurora Ave, San Marcos, CA
-1100 Hamilton, None, CA
+1100 Hamilton, CA
 15100 Lone Oak Trl, Ramona, CA
 600 Maybritt Cir, San Marcos, CA
 700 Teaberry St, Encinitas, CA
@@ -538,7 +538,7 @@ Juniper St / 32 St, San Diego, CA
 600 Sweetwater Rd, Spring Valley, CA
 3800 Menlo Ave, San Diego, CA
 1700 La Honda Dr, Escondido, CA
-2500 Jamacha Rd, None, CA
+2500 Jamacha Rd, CA
 3600 Lemon Grv, Lemon Grove, CA
 600 N 02Nd St, El Cajon, CA
 3600 Lemon Grv, Lemon Grove, CA
@@ -547,7 +547,7 @@ Juniper St / 32 St, San Diego, CA
 6800 El Cajon Blvd, San Diego, CA
 1200 E J St, Chula Vista, CA
 400 Vernon Way, El Cajon, CA
-, None, CA
+, CA
 11100 Batavia Cir, San Diego, CA
 17400 Camto Siega, San Diego, CA
 6600 Kelly St, San Diego, CA
@@ -576,7 +576,7 @@ E Flower St, Chula Vista, CA
 2300 E Valley Pky, Escondido, CA
 100 Old Grv, Oceanside, CA
 400 Firebird Ln, San Marcos, CA
-Buena Crk / S Santa Fe Ave, None, CA
+Buena Crk / S Santa Fe Ave, CA
 1400 13Th St, Imperial Beach, CA
 2700 Ascot Ave, Carlsbad, CA
 100 Jamul Ave, Chula Vista, CA
@@ -627,14 +627,14 @@ Unknown St
 800 E 15Th St, National City, CA
 400 Big Sky Dr, Oceanside, CA
 12300 Old Pomerado Rd, Poway, CA
-1300 W 04Th Ave, None, CA
+1300 W 04Th Ave, CA
 100 Rosebay Dr, Encinitas, CA
 100 Townsite Dr, Vista, CA
 1000 N El Camino Real, Encinitas, CA
 10100 Austin Dr, Spring Valley, CA
 10700 Jamacha Blvd, Spring Valley, CA
 1100 Madera Ln, Vista, CA
-11600 Vernette Ct, None, CA
+11600 Vernette Ct, CA
 11900 Royal Rd, Lakeside, CA
 1200 Calla Ave, Imperial Beach, CA
 12600 Laurel St, Lakeside, CA
@@ -770,13 +770,13 @@ Broadway, Chula Vista, CA
 1100 Wildwood Ct, Chula Vista, CA
 400 S Colorado Ave, Chula Vista, CA
 100 E 05Th Ave, Escondido, CA
-Poinsettia Ave / Smilax Rd, None, CA
+Poinsettia Ave / Smilax Rd, CA
 200 Paden Dr, Spring Valley, CA
 1800 Golden Acorn Way, Boulevard, CA
 13100 Mapleview St, Lakeside, CA
 4900 35Th St, San Diego, CA
 4000 Winona Ave, San Diego, CA
-1100 Oro St, None, CA
+1100 Oro St, CA
 5100 Wilson St, La Mesa, CA
 4600 Georgia St, San Diego, CA
 5000 Comanche Dr, La Mesa, CA
@@ -838,7 +838,7 @@ Buckley St / Seiler St, Poway, CA
 200 S  BLOCK BELMONT AVENUE,  National City CA
 200 S Belmont Ave, National City, CA
 3000 Plaza Bonita Rd, National City, CA
-1000 Vereda Callada, None, CA
+1000 Vereda Callada, CA
 900 Britain St, San Diego, CA
 100 Louisiana Ave, San Diego, CA
 300 Horton Plz, San Diego, CA
@@ -868,7 +868,7 @@ Oceanside Blvd / Rancho Del Oro Dr, Oceanside, CA
 11800 Camto Ronaldo, San Diego, CA
 3300 Sports Arena Blvd, San Diego, CA
 1300 Young St, El Cajon, CA
-2000 S Santa Fe Ave, None, CA
+2000 S Santa Fe Ave, CA
 9500 Miramar Rd, San Diego, CA
 400 Hale St, Chula Vista, CA
 800 W Harbor Dr, San Diego, CA
@@ -883,7 +883,7 @@ N Cleveland St / Pierview Way, Oceanside, CA
 3400 Marron Rd, Oceanside, CA
 300 Caspian Way, Imperial Beach, CA
 , Unknown, CA
-2100 S Santa Fe Ave, None, CA
+2100 S Santa Fe Ave, CA
 Mapleview St / Vista Parque, Lakeside, CA
 11800 Stoney Peak Dr, San Diego, CA
 11100 Ganesta Rd, San Diego, CA
@@ -928,7 +928,7 @@ J St / 36 St, San Diego, CA
 1200 Elkelton Blvd, Spring Valley, CA
 700 W Upas St, San Diego, CA
 Jicama Way, Chula Vista, CA
-10100 Heavenly Way, None, CA
+10100 Heavenly Way, CA
 800 Beyer Way, San Diego, CA
 6300 El Cajon Blvd, San Diego, CA
 600 05Th Ave, Chula Vista, CA
@@ -979,13 +979,13 @@ Monte Vis, Chula Vista, CA
 16300 Nyemii Pass, Valley Center, CA
 11300 Post Hl, Lakeside, CA
 14200 Jerome Dr, Poway, CA
-1500 York Dr, None, CA
+1500 York Dr, CA
 2800 Via Asoleado, Alpine, CA
 2900 Elm Tree Ct, Spring Valley, CA
 3400 Santa Saba Rd, Borrego Springs, CA
 3900 La Cresta Way, Bonita, CA
 500 La Barca St, Spring Valley, CA
-2400 Briarwood Ct, None, CA
+2400 Briarwood Ct, CA
 3500 Corporate Ct, San Diego, CA
 3500  BLOCK LEBON DRIVE,  San Diego CA
 3500 Lebon Dr, San Diego, CA
@@ -995,7 +995,7 @@ Monte Vis, Chula Vista, CA
 1800 S Myers St, Oceanside, CA
 1700 Costada Corte, Lemon Grove, CA
 2400 Montgomery Ave, Encinitas, CA
-5400 Casino Way, None, CA
+5400 Casino Way, CA
 1600 Emerald St, San Diego, CA
 4800 Muir Ave, San Diego, CA
 5600 Chandler Dr, San Diego, CA

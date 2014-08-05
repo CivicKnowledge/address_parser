@@ -45,9 +45,21 @@ class TopBunch(Bunch):
             zip=self.locality.zip
         )
 
-    def  __str__(self):
+    def __str__(self):
 
-        return str(self.dict)
+        a = " ".join([ str(i).title() for i in [self.number.number if self.number.number > 0 else '', self.road.direction, 
+                                                self.road.name, self.road.suffix] if i ])
+        
+        if self.locality.city and self.locality.city != 'none':
+            a += ", "+self.locality.city.title()
+        
+        if self.locality.state:
+            a += ", "+self.locality.state.upper()
+        
+        if self.locality.zip:
+            a += " "+str(self.locality.zip)
+        
+        return a
 
 
 
@@ -290,14 +302,14 @@ class ParserState(object):
             a = " ".join([ str(i).title() for i in [self.number, self.street_direction, 
                                                     self.street_name, self.street_type] if i ])
             
-            if self.city:
+            if self.city and self.city != 'none':
                 a += ", "+self.city.title()
             
             if self.state:
                 a += ", "+self.state.upper()
             
             if self.zip:
-                a += " "+self.zip         
+                a += " "+str(self.zip)
             
             if self.cross_street:
                 return a + " / "+str(self.cross_street)

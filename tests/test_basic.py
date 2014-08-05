@@ -130,7 +130,7 @@ class TestBase(unittest.TestCase):
         
         
         self.header = ['input', 'output', 'number','multinumber','fraction','street_direction',
-                  'street_name', 'street_type','suite', 'city',  'state','zip', 'is_block']
+                  'street_name', 'street_type','suite', 'city',  'state','zip', 'is_block' ]
 
 
     def tearDown(self):
@@ -148,46 +148,51 @@ class TestBase(unittest.TestCase):
         success = 0
         failure = 0
         total = 0
-        filename = "crime_addresses"
-        f_input =  os.path.join(os.path.dirname(__file__), 'support',filename + '.txt')
-        f_output =  os.path.join(os.path.dirname(__file__), 'support',filename + '.out.csv')
-        with open(f_output, 'w') as out:
-            writer = csv.DictWriter(out, self.header)
-            writer.writeheader()
-            with open(f_input) as f:
-                for line in f:
+
+        for filename in ["crime_addresses"]:
+            f_input =  os.path.join(os.path.dirname(__file__), 'support',filename + '.txt')
+            f_output =  os.path.join(os.path.dirname(__file__), 'support',filename + '.out.csv')
+            with open(f_output, 'w') as out:
+                writer = csv.DictWriter(out, self.header)
+                writer.writeheader()
+                with open(f_input) as f:
+                    for line in f:
              
-                    total += 1
+                        total += 1
              
-                    print '----'
-                    print line.strip()
-             
-                    try: 
-                        ps = parser.parse(line)
-                        if not ps:
+            
+                        try: 
+                            ps = parser.parse(line)
+                            if not ps:
+                                failure += 1
+                                continue
+                        except Exception as e:
+                            print "ERROR", e
                             failure += 1
                             continue
-                    except Exception as e:
-                        print "ERROR", e
-                        failure += 1
-                        continue
 
-                    print ps
-                    continue
+                        d = ps.dict
+                        d['input'] = line.strip()
+                        d['output'] = str(ps)
+                    
+                        d2 = dict(d.items())
+                        del d2['hash']
+                        del d2['locality']
+                        del d2['text']
+                        del d2['road']
+                        writer.writerow(d2)
+                 
+                        # THe parser strips 'BLOCK', and '/' is an intersection
+                        if line.strip() != str(ps) and 'block' not in line.lower() and '/' not in line:
+                            failure += 1
+                            print '-----'
+                            print line.strip()
+                            print ps
 
-                    d = ps.dict
-                    d['input'] = line.strip()
-                    d['output'] = str(ps)
-                    #writer.writerow(d)
-                    print d.keys()
-                    if not ps.city:
-                        failure += 1
-                        print d
-                        print ps
-                        print
-                    else:
+                            print
+                        else:
  
-                        success += 1
+                            success += 1
                 
             print 
             print "total={} success={} failure={} rate={}".format(total, success, failure, round((float(failure)/float(total)*100), 3))
