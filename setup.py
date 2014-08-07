@@ -24,7 +24,7 @@ packages = [
     'address_parser',
 ]
 
-package_data = {"": ['*.html', '*.css', '*.rst']}
+package_data = {"": ['support/*.csv']}
 
 
 requires = [
