@@ -51,8 +51,23 @@ The ``adr`` object is a nested object with address parts as properties.
 Then, you can access properties on the object. The top level properties are:
 
 - number: The house number
--- number.number. The number as an integer, or -1 if there is no house number
--- number.tnumber: The number as text
+    - number.number. The number as an integer, or -1 if there is no house number
+    - number.tnumber: The number as text
+    - number.end_number: The final number in a number rage
+    - number.fraction: The fractional part of the house number
+    - number.suite: A suite or unit number.
 
+- road: The street
+    - road.name: The bare street name
+    - road.direction. A cardinal direction, N, S, E, W, NE, NW, etc.
+    - road.suffix. The road type, sich as St, Ave, Pl.
 
+- Locality: City, state, zip
+    - locality.city
+    - locality.state
+    - locality.zip
+
+- text: Holds the whole address as text. 
+
+You can also everything as dicts. From the top level, ``adr.dict`` will return all parsed components as a dict, and each of the top level bunches can also be acess as dicts, such as ``adr.road.dict``
 
