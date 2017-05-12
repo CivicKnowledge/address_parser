@@ -66,5 +66,5 @@ Then, you can access properties on the object. The top level properties are:
     - locality.zip
 - text: Holds the whole address as text.
 
-You can also everything as dicts. From the top level, ``adr.dict`` will return all parsed components as a dict, and each of the top level bunches can also be acess as dicts, such as ``adr.road.dict``
+You can also access everything as dicts. From the top level, ``adr.dict`` will return all parsed components as a dict, and each of the top level bunches can also be acess as dicts, such as ``adr.road.dict``
 
