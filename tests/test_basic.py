@@ -5,6 +5,8 @@ Created on Jan 17, 2013
 @author: eric
 """
 
+from __future__ import print_function
+
 import unittest
 
 tests = """\
@@ -166,8 +168,11 @@ class TestBase(unittest.TestCase):
                             if not ps:
                                 failure += 1
                                 continue
+                        except TypeError:
+                            raise
                         except Exception as e:
-                            print "ERROR", e
+                            print("ERROR", e)
+
                             failure += 1
                             continue
 
@@ -185,17 +190,17 @@ class TestBase(unittest.TestCase):
                         # THe parser strips 'BLOCK', and '/' is an intersection
                         if line.strip() != str(ps) and 'block' not in line.lower() and '/' not in line:
                             failure += 1
-                            print '-----'
-                            print line.strip()
-                            print ps
+                            print('-----')
+                            print(line.strip())
+                            print(ps)
 
-                            print
+                            print()
                         else:
  
                             success += 1
                 
-            print 
-            print "total={} success={} failure={} rate={}".format(total, success, failure, round((float(failure)/float(total)*100), 3))
+            print ()
+            print ("total={} success={} failure={} rate={}".format(total, success, failure, round((float(failure)/float(total)*100), 3)))
 
     
 
