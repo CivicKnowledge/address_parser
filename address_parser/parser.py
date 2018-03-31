@@ -7,8 +7,6 @@ A Basic parser for US postal addresses.
 """
 
 
-__version__ = '0.0.2'
-__author__ = 'Eric Busboom'
 
 import os
 import csv
@@ -73,6 +71,12 @@ class TopBunch(Bunch):
 
         return a
 
+    def street_str(self):
+        """Just the street part"""
+
+        return " ".join(
+            [str(i).title() for i in [self.number.number if self.number.number > 0 else '', self.road.direction,
+                                      self.road.name, self.road.suffix] if i])
 
 class ParseError(Exception):
     pass
