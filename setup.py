@@ -43,7 +43,7 @@ classifiers = [
 
 setup(
     name='address_parser',
-    version='0.0.3',
+    version='1.0.0',
     description='Address parser',
     long_description=readme,
     packages=packages,

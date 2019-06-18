@@ -78,6 +78,7 @@ class TopBunch(Bunch):
             [str(i).title() for i in [self.number.number if self.number.number > 0 else '', self.road.direction,
                                       self.road.name, self.road.suffix] if i])
 
+
 class ParseError(Exception):
     pass
 
@@ -149,17 +150,17 @@ class Parser(object):
                 ps1.number.cross_street = ps2
 
         if city:
-            ps1.locality.city = str(city).title()
+            ps1.city = str(city).title()
 
         if state:
-            ps1.locality.state = str(state)
+            ps1.state = str(state)
 
         if zip:
-            ps1.locality.zip = zip
+            ps1.zip = zip
 
         ps1.as_text = str(ps1)
 
-        return ps1
+        return ps1.result
 
 
 class Scanner(object):
@@ -354,7 +355,15 @@ class ParserState(object):
     LAST = -2
 
     @property
-    def obj(self):
+    def zip4(self):
+        try:
+            return str(self.zip).split('-', 1)[0]
+        except (AttributeError, IndexError, ValueError):
+            return self.zip
+
+
+    @property
+    def result(self):
         '''Return a representation of the parser state as nested objects. '''
 
         return TopBunch(
@@ -379,38 +388,80 @@ class ParserState(object):
                 type='P',
                 city=self.city,
                 state=self.state,
-                zip=self.zip
+                zip=self.zip,
+                zip4=self.zip4
 
             ),
 
-            hash=self.hash,
+            hash=Bunch(
+                hash_string=self.hash_string,
+                hash=self.hash,
+                fuzzy_hash_string=self.fuzzy_hash_string,
+                fuzzy_hash=self.fuzzy_hash,
+
+            ),
 
             text=str(self)
         )
 
     @property
-    def hash(self):
+    def hash_string(self):
 
-        import hashlib
-        m = hashlib.md5()
+        import unicodedata
 
         s = '|'.join([
             str(self.number),
             self.multinumber or '.',
             self.fraction or '.',
             self.suite or '.',
-            str(self.is_block),
+            str(self.is_block or '.'),
             self.street_name or '.',
             self.street_direction or '.',
             self.street_type or '.',
             self.city or '.',
             self.state or '.',
-            str(self.zip)
-        ])
+            str(self.zip4)
+        ]).lower()
 
-        m.update(s.encode('utf8'))
+        return unicodedata.normalize('NFC', s)
+
+    @property
+    def hash(self):
+        """A complete hash of the most common parts"""
+        import hashlib
+        m = hashlib.md5()
+
+        m.update(self.hash_string.encode('utf8'))
 
         return m.hexdigest()
+
+    @property
+    def fuzzy_hash_string(self):
+        """The fuzzy hash string, before hashing. Useful for computing string distances. """
+        import unicodedata
+        from phonetics import metaphone
+
+        s = '|'.join([
+            str(self.number),
+            self.multinumber or '.',
+            metaphone(self.street_name) if self.street_name else '.',
+            metaphone(self.city) if self.city else '.',
+            metaphone(self.state) if self.state else '.',
+            str(self.zip4) if self.zip4 else '.'
+        ]).lower()
+
+        return unicodedata.normalize('NFC', s)
+
+    @property
+    def fuzzy_hash(self):
+        """A more minimal hash that uses only the number, street name, city, state and zip 4"""
+        import hashlib
+        m = hashlib.md5()
+
+        m.update(self.fuzzy_hash_string.encode('utf8'))
+
+        return m.hexdigest()
+
 
     def next(self, location=0):
         try:
@@ -656,7 +707,7 @@ class ParserState(object):
         else:
             self.fail("Couldn't parse the street name")
 
-        return self.obj
+        return self
 
     def parse_highway(self):
         import re

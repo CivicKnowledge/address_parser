@@ -6,6 +6,7 @@ Created on Jan 17, 2013
 """
 
 from __future__ import print_function
+from address_parser import Parser
 
 import unittest
 
@@ -142,7 +143,7 @@ class TestBase(unittest.TestCase):
 
     def test_address_files(self):
         import os           
-        from address_parser import Parser
+
         import csv
 
         parser = Parser()
@@ -202,7 +203,17 @@ class TestBase(unittest.TestCase):
             print ()
             print ("total={} success={} failure={} rate={}".format(total, success, failure, round((float(failure)/float(total)*100), 3)))
 
-    
+
+    def test_hash(self):
+        from pprint import pprint
+
+        a1 = '119 WEST WINTON AVENUE, HAYWARD, CA, 94544'
+        a2 = '119 Winton Ave., Hayward, Ca, 94544-5000'
+
+        parser = Parser()
+        r = parser.parse(a2)
+
+        pprint(r.dict)
 
 
 if __name__ == '__main__':
